@@ -41,7 +41,7 @@ Pune, India
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman" />&nbsp;
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg](https://pin.it/4blNxLddz)" height="30" alt="Postman" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Power_bi_logo_black.svg" height="30" alt="Power BI" />&nbsp;
   <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/wordmark.png" height="30" alt="LangChain" />&nbsp;
   <img src="https://avatars.githubusercontent.com/u/121021123?s=200&v=4" height="30" alt="ChromaDB" />&nbsp;
