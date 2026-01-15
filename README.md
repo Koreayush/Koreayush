@@ -36,13 +36,19 @@ Pune, India
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Power_bi_logo_black.svg" height="30" alt="Power BI" />&nbsp;
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/wordmark.png" height="30" alt="LangChain" />&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/121021123?s=200&v=4" height="30" alt="ChromaDB" />&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/167051492?s=200&v=4" height="30" alt="Groq" />&nbsp;
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=flat-square" height="30" alt="NLP" />
 </div>
+
 
 ---
 
