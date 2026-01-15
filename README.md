@@ -1,53 +1,98 @@
-# Hi there 👋 I'm Ayush Sanjay Kore
+# Hi there 👋 I'm **Ayush Sanjay Kore**
 
-**Full-Stack Data Scientist | AI & MLOps Practitioner | Cloud-Deployed ML Applications**  
-Pune, India
-
----
-
-## 🚀 About Me
-
-✨ Building production-ready AI systems from data to deployment  
-📚 Currently advancing skills in Generative AI, NLP, and MLOps  
-🎯 Goal: Deliver scalable AI products that drive measurable business impact  
-🎲 Fun fact: I enjoy architecting systems as much as building models
+**Full-Stack Data Scientist | AI Engineer | MLOps Practitioner**  
+📍 Pune, India  
 
 ---
 
-## 🧠 What I Build
+## 🚀 About Me  
 
-- Generative AI applications powered by LLMs and vector stores  
-- NLP-based retrieval and recommendation systems  
-- End-to-end ML pipelines (data → training → evaluation → deployment)  
-- Containerized AI services deployed on AWS ECS
+I am a **graduate and Full-Stack Data Scientist** focused on building **production-grade AI systems** that bridge the gap between machine learning research and real-world deployment.
+
+My work spans:  
+- Generative AI and Large Language Models (LLMs)  
+- Natural Language Processing (NLP)  
+- Recommendation Systems  
+- Machine Learning Pipelines  
+- Cloud Deployment and MLOps  
+
+I enjoy taking projects from **data → model → API → container → cloud**, ensuring they are scalable, reliable, and business-ready.
 
 ---
 
-## 💼 Featured Projects
+## 🧠 What I Specialize In  
 
-- **🤖 AI-Powered Cold Email Generator** — GenAI + embeddings + vector store + prompt engineering  
-- **🛍️ Product Recommendation System** — NLP + FAISS + LightGBM + Flask + Docker + AWS ECS  
-- **📊 Customer Churn Prediction** — End-to-end ML + Docker + AWS ECS
+- Designing **Generative AI applications** using LLMs and vector databases  
+- Building **NLP-based recommendation and retrieval systems**  
+- Developing **end-to-end ML workflows** (EDA → feature engineering → modeling → evaluation → deployment)  
+- Creating **Flask/FastAPI services** and deploying them using **Docker + AWS ECS**  
+- Working with **vector search (FAISS, ChromaDB)** and embedding models  
+
+---
+
+## 💼 Featured Projects  
+
+### 🤖 AI-Powered Cold Email Generator  
+A **Generative AI-based automation tool** that creates personalized professional cold emails using:  
+- LLMs  
+- Embeddings  
+- Vector Store  
+- Prompt Engineering  
+- NLP-based text understanding  
+
+---
+
+### 🛍️ Product Recommendation System (Production Deployed)  
+A real-world **AI recommendation engine** built using:  
+- NLP + Sentence Transformers  
+- FAISS vector search  
+- LightGBM ranking model  
+- Flask API  
+- Docker containerization  
+- **Deployed on AWS ECS**  
+
+This system delivers **fast, semantic, and personalized product recommendations** at scale.
+
+---
+
+### 📊 Customer Churn Prediction System  
+An **end-to-end machine learning project** that:  
+- Analyzes customer behavior  
+- Predicts churn using classification models  
+- Implements feature engineering and evaluation  
+- Packages the model using Docker  
+- Deploys the application on **AWS ECS**  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Languages:** Python  
+- **ML & NLP:** Scikit-Learn, LightGBM, TensorFlow, Transformers  
+- **Vector Databases:** FAISS, ChromaDB  
+- **APIs:** Flask, FastAPI  
+- **Cloud & MLOps:** Docker, AWS ECS, ECR  
+- **Data Tools:** Pandas, NumPy, Jupyter Notebook  
+
+---
+
+## 🎯 Career Objective  
+
+To work as a **Data Scientist / AI Engineer / MLOps Engineer** in a product-driven organization where I can build scalable AI solutions that create measurable business impact.
 
 ---
 
 ## 🛠️ I Code With
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />&nbsp;
-  <img src="https://mms.businesswire.com/media/20200206005191/en/728482/23/pm-logo-vert.jpg" height="30" alt="Postman" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Power_bi_logo_black.svg" height="30" alt="Power BI" />&nbsp;
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/wordmark.png" height="30" alt="LangChain" />&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/121021123?s=200&v=4" height="30" alt="ChromaDB" />&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/167051492?s=200&v=4" height="30" alt="Groq" />&nbsp;
-  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=flat-square" height="30" alt="NLP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />&nbsp;
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws" height="30" />
 </div>
+
 
 
 ---
@@ -69,6 +114,6 @@ Pune, India
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/aayush-kore-b495112a8/) • [GitHub](https://github.com/Koreayush)
+[LinkedIn](https://www.linkedin.com/in/aayush-kore-b495112a8/) • [GitHub](https://github.com/Koreayush) •[Kaggle](https://www.kaggle.com/ayushkore)
 
 ⭐ If you like my work, feel free to star my repositories!
